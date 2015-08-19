@@ -1,0 +1,37 @@
+CPS Grader v0.4
+
+New Feature List
+1. Improved look and size of text on main UI.
+2. Full Multi Bot Implementation
+3. Filters to prevent lack of Bot in Simulation does not crash app. Extra Statemachines are ignored.
+4. Added Beta Automatic Deployment code. Uses Shared Variables and has not been tested on iRobot yet.
+	4a. Deploy image to a myRIO.
+	4b. Specify myRIO in the Adv. Options
+	4c. Select the Deploy? Boolean.
+	4d. Run the simulation. If the image is not correct it will remove the target from the list. 
+	4e. It will automatically override sensor data for the robot in the simulation. The Sim Robot will move
+		and for correct matching between the two Changing the simulation to match your actual environment is
+		recommended.
+	4f. This deployment option is completely scalable. Currently testing needs to be done to verify
+		performance of the actual robot vs. the simulation. In a later version we might need to switch to
+		network streams for appropriate performance.
+	4g. This works for VI's and DLL's as it is only passing Sensor Data back and forth.
+	4h. Added Virtual Environment option which does not overwrite sensor data from the Simulation but still
+		outputs sensor data to the robot to drive it. Potentially this could allow the usage of virtual 
+		environments to define test area. 
+5. Filter on DLLs in the Robot State Charts. Code can only support 1 DLL directly targeted.
+	5a. Automatically removes extra DLLs from State Chart List when Start is pressed.
+6. Multi DLL Solution Implemented
+	6a. Use the Simulation Statechart-DLL Wrapper.vi as the template.
+	6b. Make a copy, rename it to something unique, and change the path constant in the VI to point to your
+		DLL.
+	6c. Use it as you would a LabVIEW State Machine VI in the application. 
+7. Re-enabled Statechart Ini code disabled in v0.3. It will now override the first Statechart in the list.
+
+Issues That Need to be Resolved
+1. CyberSim Grader DLL needs to be recompiled for LabVIEW 2014.
+2. In all original Environment Files there are two problems that prevent quick creation of new environments.
+	2a. To fix the problems each environment needs to have its robot removed and re-added.
+	2b. Problem 1: Wall Sensor has a space after it in the XML and in the Simulation iRobot Open.vi. 
+	2c. Problem 2: All sensors in default iRobot create a robot with sensors in the form "Cliff Sensor_S0".
+		Current environment robots do not have this.

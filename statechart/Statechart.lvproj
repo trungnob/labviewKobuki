@@ -1,5 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
+	<Property Name="varPersistentID:{18137209-C6F2-414D-82A2-A78CCFA5C774}" Type="Ref">/myRIO/iRobot/Remote Control Sensors.lvlib/Stop</Property>
+	<Property Name="varPersistentID:{1AF17BFC-BCF1-40CA-9B77-1587E24BCA37}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Sensors Out</Property>
+	<Property Name="varPersistentID:{20965345-208C-43E2-A8BC-DBB9986F5418}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Sensors In</Property>
+	<Property Name="varPersistentID:{61DF9EA6-3AAE-420E-AFBE-601DE7868718}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Stop</Property>
+	<Property Name="varPersistentID:{778F2FE9-5B43-43D6-9975-B9C1BE21FEB7}" Type="Ref">/myRIO/iRobot/Remote Control Sensors.lvlib/Sensors Out</Property>
+	<Property Name="varPersistentID:{F2B1C169-632D-44E6-BE69-45F4EBE44299}" Type="Ref">/myRIO/iRobot/Remote Control Sensors.lvlib/Sensors In</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>

@@ -1,0 +1,34 @@
+Robot
+		ID: kobukiRobot_R1
+				Sensor
+						ID: Cliff_Sensor_Right
+						ID: Cliff_Sensor_Center
+						ID: Cliff_Sensor_Left
+						ID: Bumper_S2
+						ID: Bumper_S3
+						ID: Accelerometer_S0
+						ID: Bumper_S0
+						ID: Bumper_S1
+						ID: Bumper_S4
+				Joint
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J13
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J4
+						ID: Joint_J8
+						ID: Joint_J11
+				Actuator
+						ID: Right Motor
+						ID: Left Motor
+				Robot Component
+						ID: Body Frame
+						ID: Wheel_Right
+						ID: Wheel_Left
+
+
+Obstacle
