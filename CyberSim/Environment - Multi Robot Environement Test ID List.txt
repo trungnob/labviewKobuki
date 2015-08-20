@@ -29,6 +29,150 @@ Robot
 						ID: Body Frame
 						ID: Wheel_Right
 						ID: Wheel_Left
+		ID: kobukiRobot_R0
+				Sensor
+						ID: Cliff_Sensor_Right
+						ID: Cliff_Sensor_Center
+						ID: Cliff_Sensor_Left
+						ID: Bumper_S2
+						ID: Bumper_S3
+						ID: Accelerometer_S0
+						ID: Bumper_S0
+						ID: Bumper_S1
+						ID: Bumper_S4
+				Joint
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J13
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J4
+						ID: Joint_J8
+						ID: Joint_J11
+				Actuator
+						ID: Right Motor
+						ID: Left Motor
+				Robot Component
+						ID: Body Frame
+						ID: Wheel_Right
+						ID: Wheel_Left
+		ID: iRobot Create_R0
+				Sensor
+						ID: Cliff Sensor_S0
+						ID: Cliff Sensor_S1
+						ID: Cliff Sensor_S2
+						ID: Cliff Sensor_S3
+						ID: Bumper_S0
+						ID: Bumper_S1
+						ID: Bumper_S2
+						ID: Bumper_S3
+						ID: Accelerometer_S0
+						ID: Wall Sensor_S0
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J14
+				Actuator
+						ID: Right Motor
+						ID: Left Motor
+				Robot Component
+						ID: Body Frame
+						ID: Wheel 1
+						ID: Wheel 2
+						ID: Support
+						ID: Caster
+						ID: Caster Axis
+		ID: iRobot Create_R1
+				Sensor
+						ID: Cliff Sensor_S0
+						ID: Cliff Sensor_S1
+						ID: Cliff Sensor_S2
+						ID: Cliff Sensor_S3
+						ID: Bumper_S0
+						ID: Bumper_S1
+						ID: Bumper_S2
+						ID: Bumper_S3
+						ID: Accelerometer_S0
+						ID: Wall Sensor_S0
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J14
+				Actuator
+						ID: Right Motor
+						ID: Left Motor
+				Robot Component
+						ID: Body Frame
+						ID: Wheel 1
+						ID: Wheel 2
+						ID: Support
+						ID: Caster
+						ID: Caster Axis
+		ID: iRobot Create_R2
+				Sensor
+						ID: Cliff Sensor_S0
+						ID: Cliff Sensor_S1
+						ID: Cliff Sensor_S2
+						ID: Cliff Sensor_S3
+						ID: Bumper_S0
+						ID: Bumper_S1
+						ID: Bumper_S2
+						ID: Bumper_S3
+						ID: Accelerometer_S0
+						ID: Wall Sensor_S0
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J14
+				Actuator
+						ID: Right Motor
+						ID: Left Motor
+				Robot Component
+						ID: Body Frame
+						ID: Wheel 1
+						ID: Wheel 2
+						ID: Support
+						ID: Caster
+						ID: Caster Axis
 
 
 Obstacle

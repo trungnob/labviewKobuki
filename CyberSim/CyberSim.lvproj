@@ -43,8 +43,8 @@
 		<Item Name="build dependencies" Type="Folder">
 			<Item Name="LVODE.dll" Type="Document" URL="/&lt;resource&gt;/LVODE.dll"/>
 			<Item Name="ode.dll" Type="Document" URL="/&lt;resource&gt;/ode.dll"/>
-			<Item Name="labview.lib" Type="Document" URL="../../../../../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
-			<Item Name="labviewv.lib" Type="Document" URL="../../../../../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
+			<Item Name="labview.lib" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
+			<Item Name="labviewv.lib" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
 		</Item>
 		<Item Name="CyberSim interface" Type="Folder">
 			<Item Name="Simulation Configuration.ctl" Type="VI" URL="../../CyberSim interface/Simulation Configuration.ctl"/>
@@ -220,6 +220,8 @@
 				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
 				<Item Name="Add File to Zip.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Add File to Zip.vi"/>
 				<Item Name="Relative Path To Platform Independent String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Relative Path To Platform Independent String.vi"/>
+				<Item Name="UART.lvlib" Type="Library" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/UART/UART.lvlib"/>
+				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 			</Item>
 			<Item Name="lvblas.dll" Type="Document" URL="/&lt;resource&gt;/lvblas.dll"/>
 			<Item Name="LVODE.dll" Type="Document" URL="LVODE.dll">
@@ -237,6 +239,9 @@
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Kobuki_datatstream_parsingState.ctl" Type="VI" URL="../../../Downloads/WinthropKobukiRIO/Trung/Kobuki_datatstream_parsingState.ctl"/>
+			<Item Name="RobotOpen.vi" Type="VI" URL="../../system/RobotOpen.vi"/>
+			<Item Name="RobotType.ctl" Type="VI" URL="../../system/RobotType.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="CyberSim.exe" Type="EXE">
