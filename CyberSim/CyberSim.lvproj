@@ -43,8 +43,8 @@
 		<Item Name="build dependencies" Type="Folder">
 			<Item Name="LVODE.dll" Type="Document" URL="/&lt;resource&gt;/LVODE.dll"/>
 			<Item Name="ode.dll" Type="Document" URL="/&lt;resource&gt;/ode.dll"/>
-			<Item Name="labview.lib" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
-			<Item Name="labviewv.lib" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
+			<Item Name="labview.lib" Type="Document" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
+			<Item Name="labviewv.lib" Type="Document" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
 		</Item>
 		<Item Name="CyberSim interface" Type="Folder">
 			<Item Name="Simulation Configuration.ctl" Type="VI" URL="../../CyberSim interface/Simulation Configuration.ctl"/>
@@ -54,6 +54,11 @@
 				<Item Name="Environment - Multi Robot Environement Test.xml" Type="Document" URL="../Environment - Multi Robot Environement Test.xml"/>
 				<Item Name="Environment - Multi Robot Environement Test.vi" Type="VI" URL="../Environment - Multi Robot Environement Test.vi"/>
 				<Item Name="Environment - Multi Robot Environement Test ID List.txt" Type="Document" URL="../Environment - Multi Robot Environement Test ID List.txt"/>
+			</Item>
+			<Item Name="Kobuki Test Enviroment" Type="Robotics Environment Simulator">
+				<Item Name="Kobuki Test Enviroment.xml" Type="Document" URL="../Kobuki Test Enviroment.xml"/>
+				<Item Name="Kobuki Test Enviroment.vi" Type="VI" URL="../Kobuki Test Enviroment.vi"/>
+				<Item Name="Kobuki Test Enviroment ID List.txt" Type="Document" URL="../Kobuki Test Enviroment ID List.txt"/>
 			</Item>
 		</Item>
 		<Item Name="iRobot" Type="Folder" URL="../../iRobot">
@@ -78,9 +83,9 @@
 		<Item Name="Kobuki" Type="Folder" URL="../../Kobuki">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="CyberSim.vi" Type="VI" URL="../CyberSim.vi"/>
 		<Item Name="environments readme.txt" Type="Document" URL="../environments readme.txt"/>
 		<Item Name="CPS Grader v0.4 README" Type="Document" URL="../CPS Grader v0.4 README"/>
+		<Item Name="CyberSim.vi" Type="VI" URL="../CyberSim.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="DC Motor Controller.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/DC Motor Controller/HAIOL/DC Motor Controller.lvclass"/>
@@ -239,7 +244,6 @@
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Kobuki_datatstream_parsingState.ctl" Type="VI" URL="../../../Downloads/WinthropKobukiRIO/Trung/Kobuki_datatstream_parsingState.ctl"/>
 			<Item Name="RobotOpen.vi" Type="VI" URL="../../system/RobotOpen.vi"/>
 			<Item Name="RobotType.ctl" Type="VI" URL="../../system/RobotType.ctl"/>
 		</Item>
