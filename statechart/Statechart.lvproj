@@ -177,7 +177,6 @@ DirectoryIndex index.htm
 		<Item Name="Robot Drive Direct.vi" Type="VI" URL="../../system/Robot Drive Direct.vi"/>
 		<Item Name="Statechart.lvsc" Type="LVStatechart" URL="../Statechart.lvsc"/>
 		<Item Name="Target.vi" Type="VI" URL="../Target.vi"/>
-		<Item Name="TestSTuffs.vi" Type="VI" URL="../../system/TestSTuffs.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Accelerometer Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Accelerometer/typedefs/Accelerometer Channels Enum.ctl"/>
