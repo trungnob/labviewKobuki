@@ -1,5 +1,5 @@
 # labviewKobuki
-Quickstart
+Quickstart simulation
 
 Extract content kobukiRobot.zip into 
 C:\Users\[USER NAME]\Documents\LabVIEW Data\Robotics\Simulator\Model\Config\Robot
@@ -15,4 +15,8 @@ Note:
  Created Kobuki relelated files under Kobuki folder 
  
  Only update "Environment-Navigation and Hill Climb1.xml" 
- 
+
+
+Quick Start myRIO deployment :
+Open statechart\Statechart.lvproj
+Run Target.vi
