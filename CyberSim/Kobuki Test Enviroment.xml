@@ -31,7 +31,7 @@
 <Name>Scene</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xE44001EF</Val>
+<Val>0x8240A816</Val>
 </Refnum>
 <Object>
 <Name>NISAST Event</Name>
@@ -171,11 +171,11 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>Kobuki Test EnviromentRSC\ive\robot scene.ive</Val>
+<Val>Kobuki Test EnviromentRSC\ive\Robot Scene.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
-<Val>Kobuki Test EnviromentRSC\stl\robot scene.stl</Val>
+<Val>Kobuki Test EnviromentRSC\stl\Robot Scene.stl</Val>
 </Path>
 <Path>
 <Name>Texture File (.png)</Name>
@@ -201,7 +201,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xE45001F0</Val>
+<Val>0x82515DED</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -306,11 +306,11 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.81392</Val>
+<Val>0.35597</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>2.64571</Val>
+<Val>1.50084</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -395,7 +395,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -406,7 +406,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.65928E-8</Val>
+<Val>6.65925E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -539,7 +539,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x41B00288</Val>
+<Val>0xDF31B937</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -723,7 +723,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.00000</Val>
+<Val>2.64499E-11</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -731,7 +731,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -742,7 +742,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.65928E-8</Val>
+<Val>6.65925E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -875,7 +875,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x43500296</Val>
+<Val>0xE0D075CB</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1067,7 +1067,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -1078,7 +1078,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.65928E-8</Val>
+<Val>6.65925E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -1211,7 +1211,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x44F002A4</Val>
+<Val>0xE27182DA</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1403,7 +1403,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-5.84520E-2</Val>
+<Val>-6.70088E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -1547,7 +1547,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x45E002AC</Val>
+<Val>0xE3611C67</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1725,7 +1725,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-5.84520E-2</Val>
+<Val>-6.70088E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -1869,7 +1869,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x46A002B2</Val>
+<Val>0xE420BDB3</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2047,7 +2047,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>2.04800E-3</Val>
+<Val>-6.50877E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -2191,7 +2191,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x476002B8</Val>
+<Val>0xE4E005B0</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2373,7 +2373,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -2517,7 +2517,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x482002BE</Val>
+<Val>0xE5A0FAE8</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2695,7 +2695,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -2839,7 +2839,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x48E002C4</Val>
+<Val>0xE66126FE</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3009,7 +3009,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.00000</Val>
+<Val>2.64499E-11</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -3017,7 +3017,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -3161,7 +3161,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x49A002CA</Val>
+<Val>0xE7218B25</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3462,7 +3462,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4100027E</Val>
+<Val>0xDE80F127</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3577,15 +3577,15 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.10000</Val>
+<Val>0.11180</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.58000E-4</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.79520E-2</Val>
+<Val>-2.50000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -3596,7 +3596,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>1.54228E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -3604,7 +3604,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-1.54228E-8</Val>
+<Val>-2.20153E-22</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -3729,7 +3729,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4270028E</Val>
+<Val>0xDFF1318C</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3787,7 +3787,7 @@
 </SGL>
 <SGL>
 <Name></Name>
-<Val>0.00000</Val>
+<Val>-1.14300E-2</Val>
 </SGL>
 <SGL>
 <Name></Name>
@@ -3844,7 +3844,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-0.11500</Val>
+<Val>-0.11180</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -3852,7 +3852,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.79520E-2</Val>
+<Val>-2.50000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -3863,7 +3863,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>9.03997E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -3871,7 +3871,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>9.03997E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -3996,7 +3996,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4410029C</Val>
+<Val>0xE1903AA4</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4250,7 +4250,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4261,7 +4261,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.04222E-8</Val>
+<Val>6.04219E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4313,7 +4313,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4AD002D3</Val>
+<Val>0xE8514D0C</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4368,7 +4368,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.00000</Val>
+<Val>2.64499E-11</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4376,7 +4376,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4387,7 +4387,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.04222E-8</Val>
+<Val>6.04219E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4439,7 +4439,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4B7002D5</Val>
+<Val>0xE8F132A4</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4502,7 +4502,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>1.00000E-2</Val>
+<Val>1.44323E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4513,7 +4513,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>6.65928E-8</Val>
+<Val>6.65925E-8</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4565,7 +4565,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4BF002D6</Val>
+<Val>0xE97186E2</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4628,7 +4628,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>2.04800E-3</Val>
+<Val>-6.50877E-3</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4691,7 +4691,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4C7002D7</Val>
+<Val>0xE9F18E8F</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4746,15 +4746,15 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.10000</Val>
+<Val>0.11180</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.57501E-4</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.79520E-2</Val>
+<Val>-2.50000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4765,7 +4765,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>1.51088E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4773,7 +4773,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-1.51088E-8</Val>
+<Val>-2.20153E-22</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -4807,7 +4807,7 @@
 [Hi Stop]	Inf
 [Stop ERP]	0.8
 [Stop CFM]	0.001
-							</Val>
+</Val>
 </String>
 <U16>
 <Name>Draw Mode</Name>
@@ -4817,7 +4817,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4D1002D2</Val>
+<Val>0xEA91A5DE</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4872,7 +4872,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-0.11500</Val>
+<Val>-0.11180</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4880,7 +4880,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.79520E-2</Val>
+<Val>-2.50000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4891,7 +4891,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>8.89547E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -4899,7 +4899,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>8.89547E-8</Val>
+<Val>2.20153E-22</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -4933,7 +4933,7 @@
 [Hi Stop]	Inf
 [Stop ERP]	0.8
 [Stop CFM]	0.001
-							</Val>
+</Val>
 </String>
 <U16>
 <Name>Draw Mode</Name>
@@ -4943,7 +4943,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4DB002D9</Val>
+<Val>0xEB10DB35</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5006,7 +5006,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-5.84520E-2</Val>
+<Val>-6.70088E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5069,7 +5069,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4E3002DA</Val>
+<Val>0xEB9087D0</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5132,7 +5132,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-5.84520E-2</Val>
+<Val>-6.70088E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5195,7 +5195,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4EB002DB</Val>
+<Val>0xEC1197F5</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5258,7 +5258,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5321,7 +5321,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4F3002DC</Val>
+<Val>0xEC91AE6C</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5384,7 +5384,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5447,7 +5447,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4FB002D8</Val>
+<Val>0xED10C905</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5502,7 +5502,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.00000</Val>
+<Val>2.64499E-11</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -5510,7 +5510,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>3.70480E-2</Val>
+<Val>2.84912E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5573,7 +5573,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x503002DE</Val>
+<Val>0xED905F9A</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5602,7 +5602,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x40F0027F</Val>
+<Val>0xDE701BFF</Val>
 </Refnum>
 <Refnum>
 <Name>Body</Name>
@@ -5626,9 +5626,548 @@
 </Array>
 <Array>
 <Name>Obstacles</Name>
-<Dimsize>0</Dimsize>
+<Dimsize>2</Dimsize>
 <Object>
 <Name>Base.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:3D_Physics_Box.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.16</Version>
+<Cluster>
+<Name>3D_Physics_Base.lvclass</Name>
+<NumElts>18</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Board</Val>
+</String>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.60000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>3.20000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>0.11000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>0.12566</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Mass</Name>
+<Val>100.00000</Val>
+</SGL>
+<Array>
+<Name>Mass Center</Name>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<Array>
+<Name>Inertia Matrix</Name>
+<Dimsize>3</Dimsize>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<U16>
+<Name>Material</Name>
+<Val>7</Val>
+</U16>
+<Cluster>
+<Name>Color</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Red</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Green</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Blue</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Alpha</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+<Path>
+<Name>Model File (.ive)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Model File (.stl)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Texture File (.png)</Name>
+<Val></Val>
+</Path>
+<String>
+<Name>Sub-Space</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Kinematic</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Visible</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0x83317A4C</Val>
+</Refnum>
+<Refnum>
+<Name>ODE Body</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Array>
+<Name>Visual Model Offset</Name>
+<Dimsize>4</Dimsize>
+<Dimsize>4</Dimsize>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+</Array>
+</Cluster>
+<Cluster>
+<Name>3D_Physics_Box.lvclass</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Length X</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Length Y</Name>
+<Val>2.00000</Val>
+</SGL>
+<SGL>
+<Name>Length Z</Name>
+<Val>1.00000E-2</Val>
+</SGL>
+<Refnum>
+<Name>ODE Geometry</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</Object>
+<Object>
+<Name>Base.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:3D_Physics_Box.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.16</Version>
+<Cluster>
+<Name>3D_Physics_Base.lvclass</Name>
+<NumElts>18</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Support</Val>
+</String>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.60000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>4.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>0.10000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Mass</Name>
+<Val>100.00000</Val>
+</SGL>
+<Array>
+<Name>Mass Center</Name>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<Array>
+<Name>Inertia Matrix</Name>
+<Dimsize>3</Dimsize>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<U16>
+<Name>Material</Name>
+<Val>7</Val>
+</U16>
+<Cluster>
+<Name>Color</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Red</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Green</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Blue</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Alpha</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+<Path>
+<Name>Model File (.ive)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Model File (.stl)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Texture File (.png)</Name>
+<Val></Val>
+</Path>
+<String>
+<Name>Sub-Space</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Kinematic</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Visible</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0x83E09035</Val>
+</Refnum>
+<Refnum>
+<Name>ODE Body</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Array>
+<Name>Visual Model Offset</Name>
+<Dimsize>4</Dimsize>
+<Dimsize>4</Dimsize>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+</Array>
+</Cluster>
+<Cluster>
+<Name>3D_Physics_Box.lvclass</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Length X</Name>
+<Val>0.30000</Val>
+</SGL>
+<SGL>
+<Name>Length Y</Name>
+<Val>0.30000</Val>
+</SGL>
+<SGL>
+<Name>Length Z</Name>
+<Val>0.20000</Val>
+</SGL>
+<Refnum>
+<Name>ODE Geometry</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
 </Object>
 </Array>
 <String>

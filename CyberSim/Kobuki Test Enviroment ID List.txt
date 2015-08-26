@@ -32,3 +32,5 @@ Robot
 
 
 Obstacle
+						ID: Board
+						ID: Support
