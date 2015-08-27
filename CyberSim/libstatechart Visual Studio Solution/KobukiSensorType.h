@@ -41,12 +41,7 @@ typedef struct{
 
 
 
-///  charging source sensors.
-typedef struct{
-	bool	internalCharger;	///< internal charger
-	bool	homeBase;			///< home docking station
-} ChargingSourcesAvailable_t;
-
+typedef enum { DISCHARGING, DOCKING_CHARGED, DOCKING_CHARGING, ADAPTER_CHARGED, ADAPTER_CHARGING } chargerState_t;
 typedef struct{
 	///  bump and wheel-drop sensors.
 	KobukiBumps_WheelDrops_t bumps_wheelDrops;
@@ -63,42 +58,21 @@ typedef struct{
 
 	/// Kobuki button sensors.
 	KobukiButtons_t buttons;
-	uint16_t  LeftWheelEncorder;
-	uint16_t  RightWheelEncorder;
-	int16_t  LeftWheelCurrent;
-	int16_t  RightWheelCurrent;
-	uint16_t TimeStamp;
-	bool SongPlaying;
-	uint8_t SongNumber;
-	int16_t Voltage;
-	int16_t Current;
-	int16_t BatteryTemp;
-	int16_t BatteryCharge;
-	int16_t BatteryCap;
-	
-	/// Distance (in mm) the robot has traveled since the last sensor packet.
-	int16_t distance;
-
-	/// Angle (in degrees) through which the robot has rotated since the last sensor packet.
-	int16_t angle;
-
-	/// charging state sensor.
-	ChargingSourcesAvailable_t chargingState;
-
-	/// Voltage of the  battery, in mV.
-	uint16_t voltage;
-
-	/// Current (mA) flowing into or out of the battery. Negative currents indicate current is leaving the battery; positive currents (present in charging) indicate current is entering the battery.
-	int16_t current;
-
-	/// Temperature of the battery, in degrees Celcius.
-	int8_t batteryTemperature;
-
-	/// Current charge of the create battery, in mAh.
-	uint16_t batteryCharge;
-
-	///  Estimated charging capacity of the battery, in mAh.
-	uint16_t batteryCapacity;
+	///Motor related values 
+	uint16_t	LeftWheelEncorder;
+	uint16_t	RightWheelEncorder;
+	int16_t		LeftWheelCurrent;
+	int16_t		RightWheelCurrent;
+	int8_t		LeftWheelPWM;
+	int8_t		RightWheelPWM;
+	bool		LeftWheelOverCurrent;
+	bool		RightWheelOverCurrent;
+	//TimeStampe
+	uint16_t	TimeStamp;
+	//Battery related values
+	uint8_t		BatteryVoltage;
+	chargerState_t chargingState;
+	//Inertia measurement : calibrated angle of rotation around Z-axis
 	int16_t Angle;
 	int16_t AngleRate;
 } KobukiSensors_t;

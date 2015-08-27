@@ -17,4 +17,11 @@ void ConvertToKobukiSensorData(uint8_t* RawSensorDataIn, KobukiSensors_t *Sensor
 	(*SensorsOut).buttons.B2						= (bool)RawSensorDataIn[16];
 	(*SensorsOut).LeftWheelEncorder					= ((uint16_t)RawSensorDataIn[17]) | (((uint16_t)(RawSensorDataIn[18])) << 8);
 	(*SensorsOut).RightWheelEncorder				= ((uint16_t)RawSensorDataIn[19]) | (((uint16_t)(RawSensorDataIn[20])) << 8);
+	(*SensorsOut).LeftWheelPWM						= (uint8_t)RawSensorDataIn[21];
+	(*SensorsOut).RightWheelPWM						= (uint8_t)RawSensorDataIn[22];
+	(*SensorsOut).LeftWheelOverCurrent				= (bool)RawSensorDataIn[23];
+	(*SensorsOut).RightWheelOverCurrent				= (bool)RawSensorDataIn[24];
+	(*SensorsOut).LeftWheelCurrent					= (int16_t)(((uint16_t)RawSensorDataIn[25]) | (((uint16_t)(RawSensorDataIn[26])) << 8));
+	(*SensorsOut).RightWheelCurrent					= (int16_t)(((uint16_t)RawSensorDataIn[27]) | (((uint16_t)(RawSensorDataIn[28])) << 8));
+	(*SensorsOut).TimeStamp							= ((uint16_t)RawSensorDataIn[29]) | (((uint16_t)(RawSensorDataIn[30])) << 8);
 }
