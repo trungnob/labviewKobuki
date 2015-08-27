@@ -4,9 +4,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str">This example demonstrates how to control a simulated iRobot Create.</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{39518AE8-B921-485D-AF3B-7663B4E6A927}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Sensors In</Property>
-	<Property Name="varPersistentID:{5CCC9768-8779-47FA-8128-A406E2128333}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Sensors Out</Property>
-	<Property Name="varPersistentID:{E845612E-9AF3-4FCA-BDC4-28B26EC72E65}" Type="Ref">/My Computer/iRobot/Remote Control Sensors.lvlib/Stop</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -30,27 +27,53 @@
 		<Item Name="build dependencies" Type="Folder">
 			<Item Name="LVODE.dll" Type="Document" URL="/&lt;resource&gt;/LVODE.dll"/>
 			<Item Name="ode.dll" Type="Document" URL="/&lt;resource&gt;/ode.dll"/>
-			<Item Name="labview.lib" Type="Document" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
-			<Item Name="labviewv.lib" Type="Document" URL="/Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
+			<Item Name="labview.lib" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labview.lib"/>
+			<Item Name="labviewv.lib" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/cintools/labviewv.lib"/>
 		</Item>
 		<Item Name="CyberSim interface" Type="Folder">
 			<Item Name="Simulation Configuration.ctl" Type="VI" URL="../../CyberSim interface/Simulation Configuration.ctl"/>
 		</Item>
 		<Item Name="CyberSim" Type="Folder">
-			<Item Name="Multi Bot Code" Type="Folder" URL="../Multi Bot Code">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="simulation" Type="Folder" URL="../simulation">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
+			<Item Name="simulation" Type="Folder">
+				<Item Name="Simulation Kobuki Drive.vi" Type="VI" URL="../simulation/Simulation Kobuki Drive.vi"/>
+				<Item Name="Simulation Kobuki Close.vi" Type="VI" URL="../simulation/Simulation Kobuki Close.vi"/>
+				<Item Name="Simulation Call Statechart (DLL).vi" Type="VI" URL="../simulation/Simulation Call Statechart (DLL).vi"/>
+				<Item Name="Simulation Call Statechart (VI).vi" Type="VI" URL="../simulation/Simulation Call Statechart (VI).vi"/>
+				<Item Name="Simulation Call Statechart Operation.ctl" Type="VI" URL="../simulation/Simulation Call Statechart Operation.ctl"/>
+				<Item Name="Simulation Call Statechart.vi" Type="VI" URL="../simulation/Simulation Call Statechart.vi"/>
+				<Item Name="Simulation Configuration from Command-Line.vi" Type="VI" URL="../simulation/Simulation Configuration from Command-Line.vi"/>
+				<Item Name="Simulation Configuration Read If Present.vi" Type="VI" URL="../simulation/Simulation Configuration Read If Present.vi"/>
+				<Item Name="Simulation Configuration Read.vi" Type="VI" URL="../simulation/Simulation Configuration Read.vi"/>
+				<Item Name="Simulation Configuration Write.vi" Type="VI" URL="../simulation/Simulation Configuration Write.vi"/>
+				<Item Name="Simulation Execution Mode.ctl" Type="VI" URL="../simulation/Simulation Execution Mode.ctl"/>
+				<Item Name="Simulation Finalize.vi" Type="VI" URL="../simulation/Simulation Finalize.vi"/>
+				<Item Name="Simulation Full Step.vi" Type="VI" URL="../simulation/Simulation Full Step.vi"/>
+				<Item Name="Simulation Initialize.vi" Type="VI" URL="../simulation/Simulation Initialize.vi"/>
+				<Item Name="Simulation Kobuki Open.vi" Type="VI" URL="../simulation/Simulation Kobuki Open.vi"/>
+				<Item Name="Simulation Kobuki Sensors.vi" Type="VI" URL="../simulation/Simulation Kobuki Sensors.vi"/>
+				<Item Name="Simulation Noninteractive Run.vi" Type="VI" URL="../simulation/Simulation Noninteractive Run.vi"/>
+				<Item Name="Simulation Record Get.vi" Type="VI" URL="../simulation/Simulation Record Get.vi"/>
+				<Item Name="Simulation Record Read.vi" Type="VI" URL="../simulation/Simulation Record Read.vi"/>
+				<Item Name="Simulation Record Write.vi" Type="VI" URL="../simulation/Simulation Record Write.vi"/>
+				<Item Name="Simulation Record.ctl" Type="VI" URL="../simulation/Simulation Record.ctl"/>
+				<Item Name="Simulation Robot Open.vi" Type="VI" URL="../simulation/Simulation Robot Open.vi"/>
+				<Item Name="Simulation Statechart Template.vi" Type="VI" URL="../simulation/Simulation Statechart Template.vi"/>
+				<Item Name="Simulation Statechart Type.ctl" Type="VI" URL="../simulation/Simulation Statechart Type.ctl"/>
+				<Item Name="Simulation Time Advance.vi" Type="VI" URL="../simulation/Simulation Time Advance.vi"/>
+				<Item Name="Simulation Time Elapsed.vi" Type="VI" URL="../simulation/Simulation Time Elapsed.vi"/>
+				<Item Name="Simulation Trace Element.ctl" Type="VI" URL="../simulation/Simulation Trace Element.ctl"/>
+				<Item Name="Simulation Trace Element.vi" Type="VI" URL="../simulation/Simulation Trace Element.vi"/>
+				<Item Name="Simulation Trace Operation.ctl" Type="VI" URL="../simulation/Simulation Trace Operation.ctl"/>
+				<Item Name="Simulation Trace.vi" Type="VI" URL="../simulation/Simulation Trace.vi"/>
+				<Item Name="SimulationIDs.ctl" Type="VI" URL="../simulation/SimulationIDs.ctl"/>
+				<Item Name="Simulator.ctl" Type="VI" URL="../simulation/Simulator.ctl"/>
+				<Item Name="SimulatorHelperGetRobotsID.vi" Type="VI" URL="../simulation/SimulatorHelperGetRobotsID.vi"/>
 			</Item>
 			<Item Name="Environment - Multi Robot Environement Test" Type="Robotics Environment Simulator"/>
 			<Item Name="Kobuki Test Enviroment" Type="Robotics Environment Simulator"/>
 			<Item Name="CPS Grader v0.4 README" Type="Document" URL="../CPS Grader v0.4 README"/>
 			<Item Name="Environment - Multi Robot Environement Test.vi" Type="VI" URL="../Environment - Multi Robot Environement Test.vi"/>
 			<Item Name="Kobuki Test Enviroment.vi" Type="VI" URL="../Kobuki Test Enviroment.vi"/>
-		</Item>
-		<Item Name="iRobot" Type="Folder" URL="../../iRobot">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="shared" Type="Folder" URL="../../shared">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -110,13 +133,8 @@
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
-				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
-				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
-				<Item Name="UART.lvlib" Type="Library" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/UART/UART.lvlib"/>
-				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 				<Item Name="GetTargetBuildSpecs (project reference).vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs (project reference).vi"/>
 				<Item Name="GetTargetBuildSpecs.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs.vi"/>
 				<Item Name="NI_App_Builder_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/AppBuilder/AB_API_Simple/NI_App_Builder_API.lvlib"/>
@@ -200,27 +218,16 @@
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
-				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
-				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
-				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
-				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
-				<Item Name="New Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/New Zip File.vi"/>
-				<Item Name="Close Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Close Zip File.vi"/>
-				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
-				<Item Name="Add File to Zip.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Add File to Zip.vi"/>
-				<Item Name="Relative Path To Platform Independent String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Relative Path To Platform Independent String.vi"/>
-				<Item Name="NI_Unzip.lvlib" Type="Library" URL="/&lt;vilib&gt;/zip/NI_Unzip.lvlib"/>
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
-				<Item Name="Create Directory Recursive.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Create Directory Recursive.vi"/>
-				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="UART.lvlib" Type="Library" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/UART/UART.lvlib"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="DC Motor Controller.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/DC Motor Controller/HAIOL/DC Motor Controller.lvclass"/>
 				<Item Name="DC Motor Controller Simulator.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/DC Motor Controller/HAIOL/Simulator/DC Motor Controller Simulator.lvclass"/>
 			</Item>
-			<Item Name="RobotOpen.vi" Type="VI" URL="../../system/RobotOpen.vi"/>
-			<Item Name="RobotType.ctl" Type="VI" URL="../../system/RobotType.ctl"/>
 			<Item Name="provcom_GenerateGUID.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Common/provcom_GenerateGUID.vi"/>
 			<Item Name="mxLvGenerateGuid.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/mxLvGenerateGuid.vi"/>
 			<Item Name="mxLvErrorHandler.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/mxLvErrorHandler.vi"/>
@@ -234,9 +241,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvblas.dll" Type="Document" URL="/&lt;resource&gt;/lvblas.dll"/>
-			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="agLabviewFinalize.vi" Type="VI" URL="../autograder/agLabviewFinalize.vi"/>
 			<Item Name="agLabviewGetErrorStatus.vi" Type="VI" URL="../autograder/agLabviewGetErrorStatus.vi"/>
 			<Item Name="agLabviewGetNextTest.vi" Type="VI" URL="../autograder/agLabviewGetNextTest.vi"/>
@@ -249,6 +253,16 @@
 			<Item Name="agLabviewUpdateConsole.vi" Type="VI" URL="../autograder/agLabviewUpdateConsole.vi"/>
 			<Item Name="feedbackMode.ctl" Type="VI" URL="../autograder/feedbackMode.ctl"/>
 			<Item Name="libAgLabviewPath.vi" Type="VI" URL="../autograder/libAgLabviewPath.vi"/>
+			<Item Name="RobotOpen.vi" Type="VI" URL="../../system/RobotOpen.vi"/>
+			<Item Name="RobotType.ctl" Type="VI" URL="../../system/RobotType.ctl"/>
+			<Item Name="RobotData.ctl" Type="VI" URL="../Multi Bot Code/RobotData.ctl"/>
+			<Item Name="Sim Sensors Feedback.ctl" Type="VI" URL="../Multi Bot Code/Sim Sensors Feedback.ctl"/>
+			<Item Name="Filter Multi DLL (SubVI).vi" Type="VI" URL="../Multi Bot Code/Filter Multi DLL (SubVI).vi"/>
+			<Item Name="GetMultiBotIDs.vi" Type="VI" URL="../Multi Bot Code/GetMultiBotIDs.vi"/>
+			<Item Name="SensorType.ctl" Type="VI" URL="../Multi Bot Code/SensorType.ctl"/>
+			<Item Name="GetSensorType(hackversion).vi" Type="VI" URL="../Multi Bot Code/GetSensorType(hackversion).vi"/>
+			<Item Name="Simulated Position.ctl" Type="VI" URL="../simulation/Simulated Position.ctl"/>
+			<Item Name="Simulated Orientation.ctl" Type="VI" URL="../simulation/Simulated Orientation.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="CyberSim.exe" Type="EXE">

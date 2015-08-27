@@ -1,0 +1,20 @@
+﻿  irobot.c
+  irobotActuator.c
+  irobotCommand.c
+  irobotError.c
+  irobotSensor.c
+  irobotSensorPoll.c
+  irobotSensorStream.c
+  irobotTime.c
+  irobotUART.c
+  xqueue.c
+  Accelerometer.c
+  MyRio.c
+  NiFpga.c
+  UART.c
+  irobotNavigationStatechart.c
+  irobotNavigationStatechartSimulation.c
+     Creating library C:\Users\trtran\Downloads\149Courseware\courseware\src\C Statechart\libstatechart Visual Studio Solution\..\..\..\CyberSim\libstatechart.lib and object C:\Users\trtran\Downloads\149Courseware\courseware\src\C Statechart\libstatechart Visual Studio Solution\..\..\..\CyberSim\libstatechart.exp
+  Generating code
+  Finished generating code
+  libstatechart.vcxproj -> C:\Users\trtran\Downloads\149Courseware\courseware\src\C Statechart\libstatechart Visual Studio Solution\..\..\..\CyberSim\libstatechart.dll

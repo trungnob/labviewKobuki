@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="C Statechart">
+      <UniqueIdentifier>{63305afc-d39e-4300-b7da-5e6c9cf1b97c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C Statechart\target">
+      <UniqueIdentifier>{e38643bc-c0d4-4c9a-a5bb-ae7fbc6e9e38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C Statechart\target\simulator">
+      <UniqueIdentifier>{1178b20b-21f2-4bbc-b1b9-4e42a5b3d5ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kobuki">
+      <UniqueIdentifier>{915a7e26-99f0-4bf4-9074-c5972754cdaa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KobukiSensors.c">
+      <Filter>Kobuki</Filter>
+    </ClCompile>
+    <ClCompile Include="KobukiStateChartSimShell.c">
+      <Filter>C Statechart\target\simulator</Filter>
+    </ClCompile>
+    <ClCompile Include="KobukiNavigationStateChart.c">
+      <Filter>C Statechart</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KobukiSensorType.h">
+      <Filter>Kobuki</Filter>
+    </ClInclude>
+    <ClInclude Include="KobukiNavigationStateChart.h">
+      <Filter>C Statechart</Filter>
+    </ClInclude>
+    <ClInclude Include="KobukiSensors.h">
+      <Filter>Kobuki</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
