@@ -4,7 +4,7 @@
 #include "KobukiSensors.h"
 #include "KobukiNavigationStateChart.h"
 #include <stdio.h>
-
+const int16_t WHEEL_SPEED = 200;
 
 int32_t LIBSTATECHARTEXAMPLE_EXP KobukiStatechartSimShell(
 	const int32_t 			netDistance,
@@ -24,6 +24,15 @@ int32_t LIBSTATECHARTEXAMPLE_EXP KobukiStatechartSimShell(
 	accel.x	=accelAxes[0];
 	accel.y = accelAxes[1];
 	accel.z = accelAxes[2];
-	KobukiNavigationStatechart(netDistance, netAngle, kobukisensors, accel, true, pRightWheelSpeed, pLeftWheelSpeed);
+	KobukiNavigationStatechart(
+		WHEEL_SPEED,
+		netDistance,
+		netAngle,
+		kobukisensors,
+		accel,
+		pRightWheelSpeed,
+		pLeftWheelSpeed,
+		true
+		);
 	return 0;  
 }

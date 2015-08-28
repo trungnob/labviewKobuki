@@ -31,7 +31,7 @@
 <Name>Scene</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xAE011842</Val>
+<Val>0x93A00001</Val>
 </Refnum>
 <Object>
 <Name>NISAST Event</Name>
@@ -171,11 +171,11 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>Enviroment - Kobuki Hill Climb 1RSC\ive\robot scene.ive</Val>
+<Val>Environment - Kobuki Hill Climb 1RSC\ive\robot scene.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
-<Val>Enviroment - Kobuki Hill Climb 1RSC\stl\robot scene.stl</Val>
+<Val>Environment - Kobuki Hill Climb 1RSC\stl\robot scene.stl</Val>
 </Path>
 <Path>
 <Name>Texture File (.png)</Name>
@@ -201,7 +201,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xAE109C73</Val>
+<Val>0x93B00000</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -310,7 +310,7 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>3.29100</Val>
+<Val>2.50000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -325,20 +325,20 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-0.00000</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-0.00000</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-0.00000</Val>
+<Val>-1.00000</Val>
 </SGL>
 </Cluster>
 <SGL>
 <Name>Angle</Name>
-<Val>0.00000</Val>
+<Val>0.34907</Val>
 </SGL>
 </Cluster>
 <Array>
@@ -539,7 +539,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB1300521</Val>
+<Val>0x96D00019</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -875,7 +875,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB2F0B5DA</Val>
+<Val>0x98900028</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1211,7 +1211,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB490F574</Val>
+<Val>0x9A300036</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1403,7 +1403,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.70088E-2</Val>
+<Val>-5.60000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -1547,7 +1547,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB5810504</Val>
+<Val>0x9BD00043</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1721,11 +1721,11 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.57501E-4</Val>
+<Val>-7.58000E-4</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.70088E-2</Val>
+<Val>-5.60000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -1869,7 +1869,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB640A70B</Val>
+<Val>0x9D50004F</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2039,15 +2039,15 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-2.95420E-3</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.57698E-4</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.50877E-3</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -2058,11 +2058,11 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-1.05367E-8</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-1.33562E-14</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -2071,7 +2071,7 @@
 </Cluster>
 <SGL>
 <Name>Angle</Name>
-<Val>3.14159</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -2191,7 +2191,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB700F11C</Val>
+<Val>0x9E200056</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2517,7 +2517,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB7C0C3A8</Val>
+<Val>0x9EE0005C</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2839,7 +2839,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB88075CA</Val>
+<Val>0x9FA00062</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3161,7 +3161,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB9407E13</Val>
+<Val>0xA0600068</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3291,7 +3291,7 @@
 </Array>
 <Array>
 <Name>Components</Name>
-<Dimsize>3</Dimsize>
+<Dimsize>5</Dimsize>
 <Object>
 <Name>ODE Simulator.lvlib:Base.lvclass</Name>
 <NumLevels>2</NumLevels>
@@ -3347,7 +3347,7 @@
 </Cluster>
 <SGL>
 <Name>Mass</Name>
-<Val>2.00000</Val>
+<Val>1.50000</Val>
 </SGL>
 <Array>
 <Name>Mass Center</Name>
@@ -3432,7 +3432,7 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>Enviroment - Kobuki Hill Climb 1RSC\ive\kobukiBody.ive</Val>
+<Val>Environment - Kobuki Hill Climb 1RSC\ive\kobukiBody.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
@@ -3462,7 +3462,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB06135BB</Val>
+<Val>0x96000012</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3581,7 +3581,7 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>0.00000</Val>
+<Val>1.00000E-2</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -3675,7 +3675,7 @@
 </Array>
 <U16>
 <Name>Material</Name>
-<Val>9</Val>
+<Val>3</Val>
 </U16>
 <Cluster>
 <Name>Color</Name>
@@ -3699,7 +3699,7 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>Enviroment - Kobuki Hill Climb 1RSC\ive\side_wheel.ive</Val>
+<Val>Environment - Kobuki Hill Climb 1RSC\ive\side_wheel.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
@@ -3729,7 +3729,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB1F03955</Val>
+<Val>0x9790001F</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3816,7 +3816,7 @@
 </SGL>
 <SGL>
 <Name>Radius</Name>
-<Val>3.17500E-2</Val>
+<Val>3.50000E-2</Val>
 </SGL>
 <Refnum>
 <Name>ODE Geometry</Name>
@@ -3848,7 +3848,7 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>0.00000</Val>
+<Val>1.00000E-2</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -3942,7 +3942,7 @@
 </Array>
 <U16>
 <Name>Material</Name>
-<Val>9</Val>
+<Val>3</Val>
 </U16>
 <Cluster>
 <Name>Color</Name>
@@ -3966,7 +3966,7 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>Enviroment - Kobuki Hill Climb 1RSC\ive\side_wheel.ive</Val>
+<Val>Environment - Kobuki Hill Climb 1RSC\ive\side_wheel.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
@@ -3996,7 +3996,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB3B13B45</Val>
+<Val>0x9950002E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4083,7 +4083,541 @@
 </SGL>
 <SGL>
 <Name>Radius</Name>
-<Val>3.17500E-2</Val>
+<Val>3.50000E-2</Val>
+</SGL>
+<Refnum>
+<Name>ODE Geometry</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</Object>
+<Object>
+<Name>ODE Simulator.lvlib:Base.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:3D_Physics_Cylinder.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.16</Version>
+<Cluster>
+<Name>3D_Physics_Base.lvclass</Name>
+<NumElts>18</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Cylinder</Val>
+</String>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.13000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>-3.20000E-2</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>1.22464E-16</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>1.22464E-16</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>1.57080</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Mass</Name>
+<Val>0.20000</Val>
+</SGL>
+<Array>
+<Name>Mass Center</Name>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<Array>
+<Name>Inertia Matrix</Name>
+<Dimsize>3</Dimsize>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<U16>
+<Name>Material</Name>
+<Val>9</Val>
+</U16>
+<Cluster>
+<Name>Color</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Red</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Green</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Blue</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Alpha</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+<Path>
+<Name>Model File (.ive)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Model File (.stl)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Texture File (.png)</Name>
+<Val></Val>
+</Path>
+<String>
+<Name>Sub-Space</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Kinematic</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Visible</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0x9AF0003C</Val>
+</Refnum>
+<Refnum>
+<Name>ODE Body</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Array>
+<Name>Visual Model Offset</Name>
+<Dimsize>4</Dimsize>
+<Dimsize>4</Dimsize>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+</Array>
+</Cluster>
+<Cluster>
+<Name>3D_Physics_Cylinder.lvclass</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>Height</Name>
+<Val>1.00000E-2</Val>
+</SGL>
+<SGL>
+<Name>Radius</Name>
+<Val>1.60000E-2</Val>
+</SGL>
+<Refnum>
+<Name>ODE Geometry</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</Object>
+<Object>
+<Name>ODE Simulator.lvlib:Base.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:3D_Physics_Cylinder.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.16</Version>
+<Cluster>
+<Name>3D_Physics_Base.lvclass</Name>
+<NumElts>18</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Cylinder_O0</Val>
+</String>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>-0.13000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>-3.20000E-2</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>1.22464E-16</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>1.22464E-16</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>1.57080</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Mass</Name>
+<Val>0.20000</Val>
+</SGL>
+<Array>
+<Name>Mass Center</Name>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>num</Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<Array>
+<Name>Inertia Matrix</Name>
+<Dimsize>3</Dimsize>
+<Dimsize>3</Dimsize>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+</Array>
+<U16>
+<Name>Material</Name>
+<Val>9</Val>
+</U16>
+<Cluster>
+<Name>Color</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Red</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Green</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Blue</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Alpha</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+<Path>
+<Name>Model File (.ive)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Model File (.stl)</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Texture File (.png)</Name>
+<Val></Val>
+</Path>
+<String>
+<Name>Sub-Space</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Kinematic</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Visible</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0x9C900049</Val>
+</Refnum>
+<Refnum>
+<Name>ODE Body</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Array>
+<Name>Visual Model Offset</Name>
+<Dimsize>4</Dimsize>
+<Dimsize>4</Dimsize>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name></Name>
+<Val>1.00000</Val>
+</SGL>
+</Array>
+</Cluster>
+<Cluster>
+<Name>3D_Physics_Cylinder.lvclass</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>Height</Name>
+<Val>1.00000E-2</Val>
+</SGL>
+<SGL>
+<Name>Radius</Name>
+<Val>1.60000E-2</Val>
 </SGL>
 <Refnum>
 <Name>ODE Geometry</Name>
@@ -4210,7 +4744,7 @@
 </Array>
 <Array>
 <Name>Joints</Name>
-<Dimsize>11</Dimsize>
+<Dimsize>13</Dimsize>
 <Object>
 <Name>NI_Robotics_Simulator.lvlib:ODESimulator_Joint.lvclass</Name>
 <NumLevels>1</NumLevels>
@@ -4313,7 +4847,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBA708E12</Val>
+<Val>0xA1900071</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4439,7 +4973,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBB1183D9</Val>
+<Val>0xA2300073</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4565,7 +5099,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBB9125D9</Val>
+<Val>0xA2D00072</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4620,15 +5154,15 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-2.95400E-3</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.58000E-4</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.50877E-3</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4639,11 +5173,11 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>-1.05367E-8</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-1.33562E-14</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
@@ -4652,12 +5186,12 @@
 </Cluster>
 <SGL>
 <Name>Angle</Name>
-<Val>3.14159</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <DBL>
 <Name>Scale</Name>
-<Val>2.00000014156103E-2</Val>
+<Val>2.00000000000000E-2</Val>
 </DBL>
 <Array>
 <Name>Components ID</Name>
@@ -4681,7 +5215,7 @@
 [Hi Stop]	Inf
 [Stop ERP]	0.6
 [Stop CFM]	0.00001
-							</Val>
+</Val>
 </String>
 <U16>
 <Name>Draw Mode</Name>
@@ -4691,7 +5225,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBC112E70</Val>
+<Val>0xA3700070</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4750,11 +5284,11 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>0.00000</Val>
+<Val>1.00000E-2</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.50000E-2</Val>
+<Val>-2.10000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4802,11 +5336,11 @@
 <Val>[FMax]	2.5
 [Fudge Factor]	0.1
 [Bounce]	0
-[CFM]	0.001
+[CFM]	0.00001
 [Lo Stop]	-Inf
 [Hi Stop]	Inf
-[Stop ERP]	0.8
-[Stop CFM]	0.001
+[Stop ERP]	0.6
+[Stop CFM]	0.00001
 </Val>
 </String>
 <U16>
@@ -4817,7 +5351,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBCB088CF</Val>
+<Val>0xA3D00074</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -4876,11 +5410,11 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>0.00000</Val>
+<Val>1.00000E-2</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-2.50000E-2</Val>
+<Val>-2.10000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -4928,11 +5462,11 @@
 <Val>[FMax]	2.5
 [Fudge Factor]	0.1
 [Bounce]	0
-[CFM]	0.001
+[CFM]	0.00001
 [Lo Stop]	-Inf
 [Hi Stop]	Inf
-[Stop ERP]	0.8
-[Stop CFM]	0.001
+[Stop ERP]	0.6
+[Stop CFM]	0.00001
 </Val>
 </String>
 <U16>
@@ -4943,7 +5477,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBD30E050</Val>
+<Val>0xA4700077</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5006,7 +5540,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.70088E-2</Val>
+<Val>-5.60000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5035,7 +5569,7 @@
 </Cluster>
 <DBL>
 <Name>Scale</Name>
-<Val>5.99999725818634E-2</Val>
+<Val>6.00000000000000E-2</Val>
 </DBL>
 <Array>
 <Name>Components ID</Name>
@@ -5059,7 +5593,7 @@
 [Hi Stop]	Inf
 [Stop ERP]	0.8
 [Stop CFM]	0.001
-							</Val>
+</Val>
 </String>
 <U16>
 <Name>Draw Mode</Name>
@@ -5069,7 +5603,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBDB08D07</Val>
+<Val>0xA5100076</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5128,11 +5662,11 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-7.57501E-4</Val>
+<Val>-7.58000E-4</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-6.70088E-2</Val>
+<Val>-5.60000E-2</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5161,7 +5695,7 @@
 </Cluster>
 <DBL>
 <Name>Scale</Name>
-<Val>5.99999725818634E-2</Val>
+<Val>6.00000000000000E-2</Val>
 </DBL>
 <Array>
 <Name>Components ID</Name>
@@ -5185,7 +5719,7 @@
 [Hi Stop]	Inf
 [Stop ERP]	0.8
 [Stop CFM]	0.001
-							</Val>
+</Val>
 </String>
 <U16>
 <Name>Draw Mode</Name>
@@ -5195,7 +5729,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBE318E8F</Val>
+<Val>0xA5900075</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5321,7 +5855,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBEB099C2</Val>
+<Val>0xA6100079</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5447,7 +5981,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBF318B25</Val>
+<Val>0xA690007B</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5573,7 +6107,259 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xBFB0FDF2</Val>
+<Val>0xA710007C</Val>
+</Refnum>
+<Refnum>
+<Name>LVODE Refnum</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Boolean>
+<Name>Feedback</Name>
+<Val>0</Val>
+</Boolean>
+<Refnum>
+<Name>LVODE ForceSensor Refnum</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<U16>
+<Name>ExtendType</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+</Object>
+<Object>
+<Name>NI_Robotics_Simulator.lvlib:ODESimulator_Joint.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:ODESimulator_Joint.lvclass</Class>
+<Version>1.0.0.19</Version>
+<Cluster>
+<Name>ODESimulator_Joint.lvclass</Name>
+<NumElts>13</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Joint_J2</Val>
+</String>
+<EW>
+<Name>Type</Name>
+<Choice>Ball</Choice>
+<Choice>Hinge</Choice>
+<Choice>Slider</Choice>
+<Choice>Universal</Choice>
+<Choice>Hinge2</Choice>
+<Choice>PR</Choice>
+<Choice>PU</Choice>
+<Choice>Piston</Choice>
+<Choice>Fixed</Choice>
+<Choice>Null</Choice>
+<Val>1</Val>
+</EW>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.13000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>-3.20000E-2</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>1.22465E-16</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>1.22465E-16</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>1.57080</Val>
+</SGL>
+</Cluster>
+<DBL>
+<Name>Scale</Name>
+<Val>0.20000001788139</Val>
+</DBL>
+<Array>
+<Name>Components ID</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Body Frame</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Cylinder</Val>
+</String>
+</Array>
+<String>
+<Name>Parameters</Name>
+<Val>[FMax]	2.5
+[Fudge Factor]	0.1
+[Bounce]	0
+[CFM]	0.001
+[Lo Stop]	-Inf
+[Hi Stop]	Inf
+[Stop ERP]	0.8
+[Stop CFM]	0.001
+</Val>
+</String>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0xA790007D</Val>
+</Refnum>
+<Refnum>
+<Name>LVODE Refnum</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Boolean>
+<Name>Feedback</Name>
+<Val>0</Val>
+</Boolean>
+<Refnum>
+<Name>LVODE ForceSensor Refnum</Name>
+<RefKind>Generic</RefKind>
+<RefType>LVODE</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<U16>
+<Name>ExtendType</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+</Object>
+<Object>
+<Name>NI_Robotics_Simulator.lvlib:ODESimulator_Joint.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>NI_Robotics_Simulator.lvlib:ODESimulator_Joint.lvclass</Class>
+<Version>1.0.0.19</Version>
+<Cluster>
+<Name>ODESimulator_Joint.lvclass</Name>
+<NumElts>13</NumElts>
+<String>
+<Name>ID</Name>
+<Val>Joint_J3</Val>
+</String>
+<EW>
+<Name>Type</Name>
+<Choice>Ball</Choice>
+<Choice>Hinge</Choice>
+<Choice>Slider</Choice>
+<Choice>Universal</Choice>
+<Choice>Hinge2</Choice>
+<Choice>PR</Choice>
+<Choice>PU</Choice>
+<Choice>Piston</Choice>
+<Choice>Fixed</Choice>
+<Choice>Null</Choice>
+<Val>1</Val>
+</EW>
+<Cluster>
+<Name>Position</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>-0.13000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>-3.20000E-2</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Rotation</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Axis</Name>
+<NumElts>3</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>1.22465E-16</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Z</Name>
+<Val>1.22465E-16</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle</Name>
+<Val>1.57080</Val>
+</SGL>
+</Cluster>
+<DBL>
+<Name>Scale</Name>
+<Val>0.20000001788139</Val>
+</DBL>
+<Array>
+<Name>Components ID</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Body Frame</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Cylinder_O0</Val>
+</String>
+</Array>
+<String>
+<Name>Parameters</Name>
+<Val>[FMax]	2.5
+[Fudge Factor]	0.1
+[Bounce]	0
+[CFM]	0.001
+[Lo Stop]	-Inf
+[Hi Stop]	Inf
+[Stop ERP]	0.8
+[Stop CFM]	0.001
+</Val>
+</String>
+<U16>
+<Name>Draw Mode</Name>
+<Val>1</Val>
+</U16>
+<Refnum>
+<Name>3D Object</Name>
+<RefKind>LV Object</RefKind>
+<RefType>Scene</RefType>
+<Val>0xA810007A</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -5602,7 +6388,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xB050EBDD</Val>
+<Val>0x95F00011</Val>
 </Refnum>
 <Refnum>
 <Name>Body</Name>
@@ -5649,11 +6435,11 @@
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>4.27550</Val>
+<Val>5.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>0.11000</Val>
+<Val>0.30000</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5664,20 +6450,20 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.46276</Val>
+<Val>1.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-0.13726</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-0.87579</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <SGL>
 <Name>Angle</Name>
-<Val>0.40600</Val>
+<Val>0.17453</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -5743,7 +6529,7 @@
 </Array>
 <U16>
 <Name>Material</Name>
-<Val>9</Val>
+<Val>4</Val>
 </U16>
 <Cluster>
 <Name>Color</Name>
@@ -5797,7 +6583,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xAEF0C2A3</Val>
+<Val>0x94900007</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -5884,7 +6670,7 @@
 </SGL>
 <SGL>
 <Name>Length Y</Name>
-<Val>4.00000</Val>
+<Val>6.00000</Val>
 </SGL>
 <SGL>
 <Name>Length Z</Name>
@@ -5916,15 +6702,15 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>2.87014</Val>
+<Val>3.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>4.53579</Val>
+<Val>5.60000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>0.30000</Val>
+<Val>0.28000</Val>
 </SGL>
 </Cluster>
 <Cluster>
@@ -5935,20 +6721,20 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>0.89409</Val>
+<Val>1.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
-<Val>-0.44619</Val>
+<Val>0.00000</Val>
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>-3.90365E-2</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <SGL>
 <Name>Angle</Name>
-<Val>0.19508</Val>
+<Val>0.17453</Val>
 </SGL>
 </Cluster>
 <SGL>
@@ -6068,7 +6854,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0xAFA1AE82</Val>
+<Val>0x9540000C</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>

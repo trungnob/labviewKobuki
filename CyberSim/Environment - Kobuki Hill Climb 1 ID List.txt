@@ -22,6 +22,8 @@ Robot
 						ID: Joint_J4
 						ID: Joint_J8
 						ID: Joint_J11
+						ID: Joint_J2
+						ID: Joint_J3
 				Actuator
 						ID: Right Motor
 						ID: Left Motor
@@ -29,6 +31,8 @@ Robot
 						ID: Body Frame
 						ID: Wheel_Right
 						ID: Wheel_Left
+						ID: Cylinder
+						ID: Cylinder_O0
 
 
 Obstacle

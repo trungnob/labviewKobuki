@@ -13,13 +13,14 @@
 
 /// Architecture-independent C Statechart.
 void KobukiNavigationStatechart(
-	const int32_t 				netDistance,		///< [in] net distance, in mm
-	const int32_t 				netAngle,			///< [in] net angle, in deg
-	const KobukiSensors_t	    sensors,			///< [in] sensors type
-	const accelerometer_t		accelAxes,			///< [in] accelerometer, in g
-	const bool					isSimulator,		///< [in] executed by a simulator
-	int16_t * const 			pRightWheelSpeed,	///< [out] right wheel speed, in mm/s
-	int16_t * const 			pLeftWheelSpeed		///< [out] left wheel speed, in mm/s
+	const int16_t 				maxWheelSpeed,
+	const int32_t 				netDistance,
+	const int32_t 				netAngle,
+	const KobukiSensors_t		sensors,
+	const accelerometer_t			accelAxes,
+	int16_t * const 			pRightWheelSpeed,
+	int16_t * const 			pLeftWheelSpeed,
+	const bool					isSimulator
 	);
 
 #endif // IROBOTNAVIGATIONSTATECHART_H_
