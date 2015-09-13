@@ -49,9 +49,7 @@
 				<Item Name="Simulation Finalize.vi" Type="VI" URL="../simulation/Simulation Finalize.vi"/>
 				<Item Name="Simulation Full Step.vi" Type="VI" URL="../simulation/Simulation Full Step.vi"/>
 				<Item Name="Simulation Initialize.vi" Type="VI" URL="../simulation/Simulation Initialize.vi"/>
-				<Item Name="Simulation Kobuki Open.vi" Type="VI" URL="../simulation/Simulation Kobuki Open.vi"/>
 				<Item Name="Simulation Kobuki Sensors.vi" Type="VI" URL="../simulation/Simulation Kobuki Sensors.vi"/>
-				<Item Name="Simulation Noninteractive Run.vi" Type="VI" URL="../simulation/Simulation Noninteractive Run.vi"/>
 				<Item Name="Simulation Record Get.vi" Type="VI" URL="../simulation/Simulation Record Get.vi"/>
 				<Item Name="Simulation Record Read.vi" Type="VI" URL="../simulation/Simulation Record Read.vi"/>
 				<Item Name="Simulation Record Write.vi" Type="VI" URL="../simulation/Simulation Record Write.vi"/>
@@ -281,7 +279,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A8563109-BAD7-4FC0-BE24-2531E02D9613}</Property>
-				<Property Name="Bld_version.build" Type="Int">94</Property>
+				<Property Name="Bld_version.build" Type="Int">96</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CyberSim.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/CyberSim.exe/CyberSim.exe</Property>
@@ -295,7 +293,7 @@
 				<Property Name="Destination[3].path" Type="Path">../builds/NI_AB_PROJECTNAME/CyberSim.exe/top-level (non-preserved)</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{75E1958E-F298-465B-851D-DCE0923874B3}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{EAD4EFF1-05D1-4949-9923-20DF798E8F40}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
