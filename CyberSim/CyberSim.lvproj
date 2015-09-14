@@ -95,6 +95,11 @@
 			<Item Name="Environment - Kobuki Hill Climb 1 ID List.txt" Type="Document" URL="../Environment - Kobuki Hill Climb 1 ID List.txt"/>
 		</Item>
 		<Item Name="CyberSim.vi" Type="VI" URL="../CyberSim.vi"/>
+		<Item Name="Environment - Navigation and Hill Climb 1 Kobuki" Type="Robotics Environment Simulator">
+			<Item Name="Environment - Navigation and Hill Climb 1 Kobuki.xml" Type="Document" URL="../Environment - Navigation and Hill Climb 1 Kobuki.xml"/>
+			<Item Name="Environment - Navigation and Hill Climb 1 Kobuki.vi" Type="VI" URL="../Environment - Navigation and Hill Climb 1 Kobuki.vi"/>
+			<Item Name="Environment - Navigation and Hill Climb 1 Kobuki ID List.txt" Type="Document" URL="../Environment - Navigation and Hill Climb 1 Kobuki ID List.txt"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -222,6 +227,7 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
+				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="DC Motor Controller.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/DC Motor Controller/HAIOL/DC Motor Controller.lvclass"/>
