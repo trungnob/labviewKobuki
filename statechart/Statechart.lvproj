@@ -27,7 +27,6 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
-			<Item Name="Charging Sources Available.ctl" Type="VI" URL="../../Kobuki/Charging Sources Available.ctl"/>
 			<Item Name="feedbackMode.ctl" Type="VI" URL="../../CyberSim/autograder/feedbackMode.ctl"/>
 			<Item Name="Kobuki Bumps and WheelDrops.ctl" Type="VI" URL="../../Kobuki/Kobuki Bumps and WheelDrops.ctl"/>
 			<Item Name="Kobuki Buttons.ctl" Type="VI" URL="../../Kobuki/Kobuki Buttons.ctl"/>
